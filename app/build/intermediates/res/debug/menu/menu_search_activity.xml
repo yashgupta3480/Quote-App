@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.sumit.gmail.search_activity">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item
+        android:id="@id/action_search"
+        android:icon="@drawable/school"
+        app:showAsAction="always"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        android:title="Search"></item>
+</menu>
+<!-- From: file:/C:/Users/sony/Desktop/Android/minor2-master/Facebook%20Like%20FeedView/Facebook%20Like%20FeedView/app/src/main/res/menu/menu_search_activity.xml -->

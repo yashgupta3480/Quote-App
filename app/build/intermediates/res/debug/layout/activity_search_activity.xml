@@ -1,0 +1,11 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <include layout="@layout/app_bar"></include>
+    <TextView android:text="@string/hello_world" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>
+<!-- From: file:/C:/Users/sony/Desktop/Android/minor2-master/Facebook%20Like%20FeedView/Facebook%20Like%20FeedView/app/src/main/res/layout/activity_search_activity.xml -->
